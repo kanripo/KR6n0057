@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:56:55.852228
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:33
 #+TITLE: 唯識二十論述記
 #+PROPERTY: CBETA_ID T43n1834
 #+PROPERTY: ID KR6n0057
