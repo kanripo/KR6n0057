@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:56:55.791576
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:33
 #+TITLE: 唯識二十論述記
 #+PROPERTY: CBETA_ID T43n1834
 #+PROPERTY: ID KR6n0057
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 43, No. 1834
 #+PROPERTY: VOL 43
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0057_T_000-0978c>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0057_T_001-0978c> ¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1834[cf.No.1590]¶
-
- 唯識二十論述記卷上¶
+No. 1834 [cf. No. 1590]¶
+唯識二十論述記卷上¶
 ¶
 翻經沙門基撰¶
 
@@ -1049,7 +1048,7 @@ No.1834[cf.No.1590]¶
 傍生鬼者。是設遮言。或破轉計。彼復難言。若¶
 非有情。法救善現所說。復云何解。心常懷忿¶
 毒。好集諸惡業。見他苦欣悅。死作琰魔卒。今¶
-解之言。琰魔王使。諸邏剎娑。擲諸有情。置地¶
+解之言。琰魔王使。諸邏剎婆。擲諸有情。置地¶
 獄者。名琰魔卒。是實有情。非地獄中害有情¶
 者。故地獄卒。非實有情。¶
 
